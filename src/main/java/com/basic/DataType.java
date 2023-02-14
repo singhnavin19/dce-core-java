@@ -8,6 +8,7 @@ public class DataType {
 	public static void main(String[] args) {
 		System.out.println(i);
 		System.out.println(i1);
+		System.out.println(Integer.toBinaryString(20));
 
 	}
 
