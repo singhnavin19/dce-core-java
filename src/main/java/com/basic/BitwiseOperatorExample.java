@@ -15,5 +15,17 @@ public class BitwiseOperatorExample {
 		
 		System.out.println(10|12);
 		
+		System.out.println(Integer.toBinaryString(10));
+		System.out.println(~10);
+		
+		System.out.println(Integer.toBinaryString(10));
+		System.out.println(Integer.toBinaryString(10<<2));
+		System.out.println(10<<2);
+		
+		System.out.println(Integer.toBinaryString(10));
+		System.out.println(Integer.toBinaryString(10>>8));
+		System.out.println(10>>2);
+
+		
 	}
 }
