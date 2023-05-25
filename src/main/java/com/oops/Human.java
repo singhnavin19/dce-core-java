@@ -1,5 +1,6 @@
 package com.oops;
 
+
 public class Human {
 	int leg;
 	int hand;
