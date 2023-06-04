@@ -1,4 +1,4 @@
-package com.opps.variableType;
+package com.oops.staticexample;
 
 public class StaticVariableExample {
 
@@ -32,6 +32,8 @@ public class StaticVariableExample {
 		System.out.println(StaticVariableExample.j_static);
 		
 		printVaribales();
+		
+		StaticMethodExample.getWeight(10);
 		
 	}
 }

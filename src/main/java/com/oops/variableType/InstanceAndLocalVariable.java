@@ -1,4 +1,4 @@
-package com.opps.variableType;
+package com.oops.variableType;
 
 public class InstanceAndLocalVariable {
 	int i=10; //instance
@@ -9,10 +9,10 @@ public class InstanceAndLocalVariable {
 	}
 
 	public static void main(String[] args) {
+		InstanceAndLocalVariable s1=new InstanceAndLocalVariable();
+
+		System.out.println(s1.i);//get 
+		s1.printNo();
 		
-		InstanceAndLocalVariable instance = new InstanceAndLocalVariable();
-		System.out.println(instance.i);
-		
-		//System.out.println(instance.no);//not accessible
 	}
 }
