@@ -1,6 +1,11 @@
 package com.oops.inheritance;
-
-public class AninmalMain {
+class A{
+	
+}
+class B{
+	
+}
+public class AninmalMain extends A{
 	public static void main(String[] args) {
 		Cow c=new Cow();
 		c.leg=4;
