@@ -10,6 +10,7 @@ public class JavaInstitueFactory {
 	}
 
 	public static void main(String[] args) {
+		//int i=10;
 		JavaInstitue j1=new JavaInstitueLokhandwala();
 		JavaInstitueFactory f1=new JavaInstitueFactory(j1);
 		
@@ -18,5 +19,6 @@ public class JavaInstitueFactory {
 		f1=new JavaInstitueFactory(new JavaHanumanNagar());
 		String hanumanNagarTopics=f1.javaInstitute.getTopics();
 		System.out.println(hanumanNagarTopics);
+		System.out.println(f1.javaInstitute.getFee(hanumanNagarTopics));
 	}
 }
