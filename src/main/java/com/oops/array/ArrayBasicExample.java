@@ -20,7 +20,7 @@ public class ArrayBasicExample {
 		  //1. initialization 2. condtion check 3.increment/decrement
 		  //.4. body
 		  
-		  for(z=0;z<c.length;z++) { //z=1
+		  for(z=c.length-1;z>=0;z--) { //z=2 
 			  System.out.println(c[z]);
 		  }
 		  //0 1 2
