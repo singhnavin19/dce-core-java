@@ -1,13 +1,14 @@
-package com.oops.array;
+package com.oops.arrayexample;
 
 import java.util.Scanner;
 
 public class ArrayBasicExample {
 	public static void main(String[] args) {
-		System.out.println("hello");
+		System.out.println("Please enter size of array");
+		Scanner sc=new Scanner(System.in);
+		int sizeOfArray=sc.nextInt();
 		//dataType []varName=new dataType[]
-		  int         c[]  =new int[3];
-		  Scanner sc=new Scanner(System.in);
+		  int        c[]  =new int[sizeOfArray];
 		  for(int le=0;le<c.length;le++) {
 		      System.out.println("please enter elements");
 		  	  c[le]=sc.nextInt();
@@ -20,7 +21,7 @@ public class ArrayBasicExample {
 		  //1. initialization 2. condtion check 3.increment/decrement
 		  //.4. body
 		  
-		  for(z=c.length-1;z>=0;z--) { //z=2 
+		  for(z=c.length-1;z>=0;z--) { //z=2
 			  System.out.println(c[z]);
 		  }
 		  //0 1 2
