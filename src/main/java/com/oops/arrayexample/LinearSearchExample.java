@@ -22,15 +22,16 @@ public class LinearSearchExample {
 		
 		System.out.println("please enter element you want to search");
 		int input=sc.nextInt();
-		boolean isFound=false;
+//		boolean isFound=false;
+		int flag=0;
 		int index;
-		for(index=0;index<sizeOfArray;index++) {
+		for(index=0;index<sizeOfArray;index++) { //index=0
 			if(array[index]==input) {
-				isFound=true;
+				flag=1;
 				break;
 			}
 		}
-		if(isFound) {
+		if(flag==1) {
 			System.out.println("Bingo We found element at array["+index+"]= "+input);
 		}else {
 			System.out.println("element not found");
