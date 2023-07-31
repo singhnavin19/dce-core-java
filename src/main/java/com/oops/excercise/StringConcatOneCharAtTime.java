@@ -1,4 +1,4 @@
-package com.string.excercise;
+package com.oops.excercise;
 
 public class StringConcatOneCharAtTime {
 

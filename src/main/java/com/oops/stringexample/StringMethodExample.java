@@ -20,6 +20,7 @@ public class StringMethodExample {
 		
 		System.out.println(template.formatted("Nikhil","Kareena"));
 		
+		System.out.println("navin".offsetByCodePoints(3, -5));
 	}
 
 }
