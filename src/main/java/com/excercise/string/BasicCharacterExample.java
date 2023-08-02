@@ -1,4 +1,4 @@
-package com.oops.stringexample;
+package com.excercise.string;
 
 public class BasicCharacterExample {
 	public static void main(String[] args) {

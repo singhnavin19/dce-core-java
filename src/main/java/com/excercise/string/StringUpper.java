@@ -1,4 +1,4 @@
-package com.oops.stringexample;
+package com.excercise.string;
 
 import java.util.ArrayList;
 import java.util.List;

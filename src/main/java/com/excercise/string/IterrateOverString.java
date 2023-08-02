@@ -1,4 +1,4 @@
-package com.oops.stringexample;
+package com.excercise.string;
 
 import java.util.Scanner;
 import java.util.StringTokenizer;
@@ -28,17 +28,28 @@ public class IterrateOverString {
 
 	}
 	public static void main(String[] args) {
-		Scanner sc=new Scanner(System.in);
-		System.out.println("please enter a string");
-		String input=sc.nextLine();
+//		Scanner sc=new Scanner(System.in);
+//		System.out.println("please enter a string");
+//		String input=sc.nextLine();
+//		
+//		printStringUsingLoop(input);
+//	
+//		printUsingEnchanceLoop(input);
+//		
+//		printStringUsingSplit(input);
+//		
+//		printStringUsingToken(input);
 		
-		printStringUsingLoop(input);
-	
-		printUsingEnchanceLoop(input);
+		String s="navin";
 		
-		printStringUsingSplit(input);
+		char c[]=s.toCharArray();
 		
-		printStringUsingToken(input);
+		
+		
+		String out=new String(c);
+		
+		System.out.println(out);
+		
 	}
 
 	private static void printStringUsingToken(String input) {
@@ -51,3 +62,9 @@ public class IterrateOverString {
 	}
 	
 }
+
+
+
+
+
+

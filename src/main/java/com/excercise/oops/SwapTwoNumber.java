@@ -1,4 +1,4 @@
-package com.oops.excercise;
+package com.excercise.oops;
 
 public class SwapTwoNumber {
 	public static void main(String[] args) {

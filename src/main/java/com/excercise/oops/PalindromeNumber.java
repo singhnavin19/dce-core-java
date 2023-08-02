@@ -1,4 +1,4 @@
-package com.oops.excercise;
+package com.excercise.oops;
 
 import java.util.Scanner;
 
@@ -7,8 +7,9 @@ public class PalindromeNumber {
 		Scanner sc=new Scanner(System.in);
 		int input=sc.nextInt();
 		
-		byUsingModuloAndDivideOperator(input);
+		
 		byUsingStringBuilderReverseMethod(input);
+		byUsingModuloAndDivideOperator(input);
 
 		
 	}
