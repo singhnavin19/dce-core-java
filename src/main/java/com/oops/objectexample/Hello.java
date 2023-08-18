@@ -12,32 +12,32 @@ public class Hello extends A implements Cloneable  {
 	public String toString() {
 		return "Hello ka toString";
 	}
+	
 	public static void main(String[] args) throws CloneNotSupportedException {
 		System.out.println("hello");
 		Hello r=new Hello();
-//		//hashcode
-//		System.out.println(r.hashCode());	
-//		
-//		//clone
-//		Hello r1=(Hello)r.clone();
-//
-//		
-//		r.i=20;
-//		System.out.println(r.i+" r1"+r1.i);
-//		r1.i=50;
-//		//equals
-//		System.out.println(r.equals(r1));
-//		
-//		//getclass
-//		System.out.println(r1.getClass());
+		Hello h=new Hello();
 		
-		//direct print object
-		System.out.println("print direct object  = " + r);
-		System.out.println("print toString method= "+r.toString());
-
+		//toString()
+//		System.out.println("print direct object  = " + r);//r.toString()
+//		System.out.println("print toString method= "+r.toString());
 //		String s=new String("Navin");
 //		System.out.println(s.toString());
 //		
+		
+		System.out.println(r.hashCode());
+		System.out.println(h.hashCode());
+		
+		String s=new String("Navin");
+		String s1=new String("Navin");
+		
+		System.out.println(s.hashCode());
+		System.out.println(s1.hashCode());
+		
+		System.out.println(s==s1);
+		System.out.println(s.equals(s1));
+		System.out.println(r.equals(h));
+		
 	
 					
 	}
