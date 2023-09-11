@@ -6,7 +6,6 @@ class Basic{
 }
 
 public class CastingExampleWithObject extends Basic{
-	int i=10;
 	void sayHello() {
 		System.out.println("child casting");
 	}
@@ -16,7 +15,7 @@ public class CastingExampleWithObject extends Basic{
 	public static void main(String[] args) {
 		Basic b=new CastingExampleWithObject();
 		b.sayHello();
-		b.sayHi();
+//		b.sayHi();
 		
 	}
 	
