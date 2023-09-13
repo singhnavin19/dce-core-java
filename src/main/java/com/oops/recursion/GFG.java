@@ -1,7 +1,7 @@
 package com.oops.recursion;
+
 class GFG {
-	static void printFun(int test)
-	{
+	static void printFun(int test) {
 		if (test < 1)
 			return;
 		else {
@@ -12,8 +12,8 @@ class GFG {
 		}
 	}
 
-	public static void main(String[] args)
-	{
+	public static void main(String[] args) {
+		GFG c = new GFG();
 		int test = 3;
 		printFun(test);
 	}
