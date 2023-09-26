@@ -22,17 +22,24 @@ public class CustomExceptionExample {
 		if(time!=830) {
 			try {
 				System.out.println("rest of code");
-				throw new NullPointerException("null check");				
+//				throw new NullPointerException("null check");
+				throw new LateStudent("I am late");
+				
+			}
+			catch(LateStudent l) {
+				System.out.println("late student catch block");
+				l.printStackTrace();
 			}
 			catch(ArithmeticException e) {
+				System.out.println("ArithmeticException catch block");
 				e.printStackTrace();
 			}
 			catch(Exception e) {
-				System.out.println("Exception");
+				System.out.println("Exception catch block");
 				e.printStackTrace();
 			}
 			finally {
-				System.out.println("Exception throw");
+				System.out.println("finally block");
 			}
 		}
 	}
