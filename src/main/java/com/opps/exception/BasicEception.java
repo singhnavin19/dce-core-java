@@ -13,12 +13,12 @@ public class BasicEception {
 		
 		System.out.println("above code");
 		
-		try {
+//		try {
 			System.out.println(nos[index]);			
-		}catch(Exception e) {
-			System.out.println("exception aaya and we handle it");
-			System.out.println(e);
-		}
+//		}catch(Exception e) {
+//			System.out.println("exception aaya and we handle it");
+//			System.out.println(e);
+//		}
 		
 		System.out.println("rest of code");
 		sayHello();

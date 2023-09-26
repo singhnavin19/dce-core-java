@@ -12,11 +12,18 @@ public class ExceptionFlowExample {
 	private static void sayHello() {
 		System.out.println("inside hello method");
 		try {
+			System.out.println("hello 1");
 			sayBye();			
+			System.out.println("hello 2");
+			
 		}catch(Exception e) {
+			System.out.println("catch block");
 			e.printStackTrace();
 		}
-		System.out.println("hello");
+		finally {
+			System.out.println("finally block");
+		}
+		
 	}
 
 	private static void sayBye() {
