@@ -1,4 +1,4 @@
-package com.oops.arrayexample;
+package com.oops.collectionss;
 
 import java.util.Scanner;
 
