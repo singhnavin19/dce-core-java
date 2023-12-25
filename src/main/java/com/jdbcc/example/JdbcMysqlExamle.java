@@ -19,6 +19,7 @@ public class JdbcMysqlExamle {
 		
 		//4. Execute statement:
 		ResultSet rst=stmt.executeQuery("select * from navinTest");
+//		stmt.executeUpdate("insert into navinTest values(?)");
 		
 		while(rst.next()){
 			System.out.print(rst.getString("id"));
