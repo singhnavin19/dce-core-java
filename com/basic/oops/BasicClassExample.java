@@ -8,7 +8,7 @@ public class BasicClassExample {
     }
     static public void main(String[] args) {
         BasicClassExample basicClassExample=new BasicClassExample();
-        System.out.println(basicClassExample.no); //10
+        System.out.println("initial value in basicClassExample ="+basicClassExample.no); //10
         basicClassExample.no=11;
         System.out.println(basicClassExample.no);
         basicClassExample.printMyName();
