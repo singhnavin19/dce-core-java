@@ -9,7 +9,6 @@ public class BasePrivate{
     public int getI(){
         return privateI;
     }
-
     protected void printEvenOddNumberprotected(){
         for (int i=0;i<=10;i++){
             if(i%2==0){
