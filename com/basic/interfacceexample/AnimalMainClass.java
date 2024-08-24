@@ -22,9 +22,5 @@ public class AnimalMainClass {
         if (animal != null) {
             animal.sound();
         }
-
-
     }
-
-
 }
