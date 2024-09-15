@@ -7,6 +7,5 @@ public class StringByUsingNewOperator {
         System.out.println(s==s2);
         s=s.intern();
         System.out.println(s==s2);
-
     }
 }
