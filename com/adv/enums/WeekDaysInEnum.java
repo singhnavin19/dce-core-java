@@ -1,7 +1,5 @@
 package com.adv.enums;
 
-import com.pract.WhatAppConstant;
-
 import java.util.Scanner;
 
 public  class WeekDaysInEnum {

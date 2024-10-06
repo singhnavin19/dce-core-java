@@ -7,7 +7,8 @@ public enum WeekDays {
     WEDNESDAY(3),
     THURSDAY(4),
     FRIDAY(5),
-    SATURDAY(6)
+    SATURDAY(6),
+    OTHERDAY(7)
     ;
     WeekDays(int dayInNumber){
         this.dayInNumber=dayInNumber;
