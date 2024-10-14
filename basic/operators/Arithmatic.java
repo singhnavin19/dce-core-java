@@ -8,9 +8,9 @@ public class Arithmatic {
         System.out.println("a="+a+" b="+b);
         System.out.println("Addition is ="+c);
         System.out.println("Subtraction="+(a-b));
-        System.out.println(a*b);
-        System.out.println(a/b);
-        System.out.println(a%b);
+        System.out.println("Multiplication is "+(a*b));
+        System.out.println("Division is ="+(a/b));
+        System.out.println("Modulus is ="+(a%b));
 
     }
 }
