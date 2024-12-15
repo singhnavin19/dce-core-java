@@ -1,4 +1,4 @@
-package basic.operators;
+package basic.oops.basic;
 
 public class Fan {
     int blade=3;
