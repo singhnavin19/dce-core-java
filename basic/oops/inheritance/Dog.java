@@ -1,6 +1,8 @@
 package basic.oops.inheritance;
 
 public class Dog extends Animal{
+    protected int hand=2;
+
     public void barking(){
         System.out.println("bhow bhow");
     }
