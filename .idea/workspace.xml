@@ -5,11 +5,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4829187-db0e-452a-b111-36946cd21467" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/basic/oops/polymorphism/BasicOverloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Stringsss/ImmutableExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Stringsss/IteerrateOverString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Stringsss/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Stringsss/StringBufferAndBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Stringsss/Stringss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Stringsss/SwapTwoCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/advJava/StaticAndFinal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/advJava/WeekDays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/exceptionss/BasicExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/exceptionss/CustomExceptionMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/exceptionss/ExceptionProp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/exceptionss/FinalExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/java8/FunctionalExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/java8/FunctionalImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/java8/FunctionalInterfaceExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/java8/MianMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/java8/predifine/ConsumerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/java8/predifine/FunctionImple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/java8/predifine/SupplierExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/java8/stream/BasicStreamOps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/java8/stream/NumberPositiveToNeg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/javamis/MathsFunctiona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/oops/encapsulations/EncalsuleIdea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/oops/encapsulations/Encapsule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/oops/encapsulations/EncapsuleMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/oops/thisAndSuper/SuperExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/wrapper/BasicRecur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/wrapper/RecusrionBasic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/wrapper/WrapperExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bav.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/oops/abstarctionss/AbstarctBasicExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/oops/abstarctionss/AbstarctBasicExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/oops/abstarctionss/MainAbstarct.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/oops/abstarctionss/MainAbstarct.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/oops/constrcut/BasicConstruct.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/oops/constrcut/BasicConstruct.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bin/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,9 +46,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Enum" />
         <option value="Interface" />
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -71,35 +97,57 @@
     "Application.BasicFinalExample.executor": "Run",
     "Application.BasicInheritExample.executor": "Debug",
     "Application.BasicOverloading.executor": "Run",
+    "Application.BasicOverriding.executor": "Run",
+    "Application.BasicRecur.executor": "Run",
     "Application.BasicRecursion.executor": "Run",
+    "Application.BasicStreamOps.executor": "Run",
     "Application.BasicWrapper.executor": "Run",
     "Application.BitWiseOpe.executor": "Run",
     "Application.BufferAndBuilder.executor": "Run",
+    "Application.ConsumerImpl.executor": "Run",
     "Application.ConvertCapitalToSmall.executor": "Run",
+    "Application.CustomExceptionMain.executor": "Run",
     "Application.DataTypeBasicExample.executor": "Run",
     "Application.DownCastingExample.executor": "Run",
+    "Application.DxceptionProp.executor": "Run",
+    "Application.EncapsuleMain.executor": "Run",
     "Application.EnumTest.executor": "Run",
     "Application.FibonacciExample.executor": "Run",
+    "Application.FinalExample1.executor": "Run",
     "Application.ForLoopExample.executor": "Run",
+    "Application.FunctionImple.executor": "Run",
+    "Application.FunctionalExample.executor": "Run",
+    "Application.FunctionalImpl.executor": "Run",
     "Application.GermanShefad.executor": "Run",
     "Application.HasSetExample.executor": "Run",
     "Application.Hello.executor": "Run",
     "Application.Helloworld.executor": "Run",
     "Application.IfElseExample.executor": "Run",
     "Application.IfExample.executor": "Run",
+    "Application.ImmutableExample.executor": "Run",
+    "Application.IteerrateOverString.executor": "Run",
     "Application.LinkedListExample.executor": "Run",
     "Application.LoopBasic.executor": "Run",
     "Application.MainAbstarct.executor": "Run",
     "Application.MainClass.executor": "Run",
     "Application.Map2MapCompare.executor": "Run",
+    "Application.MathsFunctiona.executor": "Run",
+    "Application.MianMethod.executor": "Run",
     "Application.MultipleIf.executor": "Run",
+    "Application.NumberPositiveToNeg.executor": "Run",
     "Application.ProblemNo6.executor": "Run",
+    "Application.RecusrionBasic.executor": "Run",
     "Application.RelationalOpe.executor": "Run",
+    "Application.ReverseString.executor": "Run",
     "Application.StrategyPattern.executor": "Run",
     "Application.StringBasicExample.executor": "Run",
+    "Application.StringBufferAndBuilder.executor": "Run",
     "Application.StringByUsingNewOperator.executor": "Run",
     "Application.StringImmutable.executor": "Run",
     "Application.StringMethods.executor": "Run",
+    "Application.Stringss.executor": "Run",
+    "Application.SuperExample.executor": "Run",
+    "Application.SwapTwoCharacter.executor": "Run",
     "Application.TakeInput.executor": "Run",
     "Application.TakeInputFromUser.executor": "Run",
     "Application.UnaryOpePrePost.executor": "Run",
@@ -108,6 +156,7 @@
     "Application.WaysToCreateString.executor": "Run",
     "Application.WeekDays.executor": "Run",
     "Application.WeekDaysInEnum.executor": "Run",
+    "Application.WrapperExample.executor": "Run",
     "Application.com.adv.enums.WeekDaysInEnum.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -119,13 +168,19 @@
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.BasicOverloading">
-    <configuration name="BasicConstruct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.oops.constrcut.BasicConstruct" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/basic/exceptionss" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.WeekDays">
+    <configuration name="BasicRecur" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.wrapper.BasicRecur" />
       <module name="dce-core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.oops.constrcut.*" />
+          <option name="PATTERN" value="basic.wrapper.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,12 +188,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BasicOverloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.oops.polymorphism.BasicOverloading" />
+    <configuration name="BasicStreamOps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.java8.stream.BasicStreamOps" />
       <module name="dce-core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.oops.polymorphism.*" />
+          <option name="PATTERN" value="basic.java8.stream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,12 +201,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GermanShefad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.oops.inheritance.GermanShefad" />
+    <configuration name="RecusrionBasic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.wrapper.RecusrionBasic" />
       <module name="dce-core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.oops.inheritance.*" />
+          <option name="PATTERN" value="basic.wrapper.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,12 +214,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainAbstarct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.oops.abstarctionss.MainAbstarct" />
+    <configuration name="Stringss" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.Stringsss.Stringss" />
       <module name="dce-core-java" />
+      <option name="PROGRAM_PARAMETERS" value="Navin" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.oops.abstarctionss.*" />
+          <option name="PATTERN" value="basic.Stringsss.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -172,12 +228,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.oops.abstarctionss.MainClass" />
+    <configuration name="WeekDays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.advJava.WeekDays" />
       <module name="dce-core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.oops.abstarctionss.*" />
+          <option name="PATTERN" value="basic.advJava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WrapperExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.wrapper.WrapperExample" />
+      <module name="dce-core-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basic.wrapper.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -187,11 +256,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BasicOverloading" />
-        <item itemvalue="Application.MainAbstarct" />
-        <item itemvalue="Application.BasicConstruct" />
-        <item itemvalue="Application.MainClass" />
-        <item itemvalue="Application.GermanShefad" />
+        <item itemvalue="Application.WeekDays" />
+        <item itemvalue="Application.BasicRecur" />
+        <item itemvalue="Application.RecusrionBasic" />
+        <item itemvalue="Application.WrapperExample" />
+        <item itemvalue="Application.BasicStreamOps" />
       </list>
     </recent_temporary>
   </component>
