@@ -9,5 +9,9 @@ public class UnaryBasicExample {
         System.out.println("after1 ="+a);
         ++a;
         System.out.println("after2 ="+a);
+
+        System.out.println("--a is= "+--a);//11
+        System.out.println(a--); // 11 10
+        System.out.println(a);    //
     }
 }
