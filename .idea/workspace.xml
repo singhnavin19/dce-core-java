@@ -5,9 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1478d73f-c6e2-4202-af2c-040eb8d81364" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/basic/operators/UnaryOperator1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/controlstatement/FooBaar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/controlstatement/FooBaarIfElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/controlstatement/IfExampleForAge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/controlstatement/NestedIf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/operators/ArithmaticOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/operators/AssignmentOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/operators/LogicalOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/operators/RelationalOperator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/operators/UnaryBasicExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/operators/UnaryBasicExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/operators/UnaryOperator1.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/operators/UnaryOperator1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/dce-core-java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/dce-core-java/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +32,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;singhnavin19&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/singhnavin19/dce-core-java.git&quot;,
+    &quot;accountId&quot;: &quot;b4f1d27d-1dc3-4815-9619-d9a448989184&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -36,10 +56,19 @@
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Application.AddTwoNumber.executor": "Run",
+    "Application.ArithmaticOperator.executor": "Run",
+    "Application.AssignmentOperator.executor": "Run",
+    "Application.FooBaar.executor": "Run",
+    "Application.FooBaarIfElse.executor": "Run",
+    "Application.IfExampleForAge.executor": "Run",
+    "Application.LogicalOperator.executor": "Run",
+    "Application.NestedIf.executor": "Run",
+    "Application.RelationalOperator.executor": "Run",
     "Application.UnaryBasicExample.executor": "Run",
     "Application.UnaryOperator1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "may-2025",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/navinsingh/git/dce-core-java",
     "project.structure.last.edited": "Modules",
@@ -51,14 +80,17 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="basic.operators" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.UnaryOperator1">
-    <configuration name="AddTwoNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.AddTwoNumber" />
+  <component name="RunManager" selected="Application.NestedIf">
+    <configuration name="FooBaar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.controlstatement.FooBaar" />
       <module name="dce-core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.*" />
+          <option name="PATTERN" value="basic.controlstatement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,8 +98,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UnaryBasicExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.operators.UnaryBasicExample" />
+    <configuration name="FooBaarIfElse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.controlstatement.FooBaarIfElse" />
+      <module name="dce-core-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basic.controlstatement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IfExampleForAge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.controlstatement.IfExampleForAge" />
+      <module name="dce-core-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basic.controlstatement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogicalOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.operators.LogicalOperator" />
       <module name="dce-core-java" />
       <extension name="coverage">
         <pattern>
@@ -79,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UnaryOperator1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.operators.UnaryOperator1" />
+    <configuration name="NestedIf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.controlstatement.NestedIf" />
       <module name="dce-core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.operators.*" />
+          <option name="PATTERN" value="basic.controlstatement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,9 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.UnaryOperator1" />
-        <item itemvalue="Application.UnaryBasicExample" />
-        <item itemvalue="Application.AddTwoNumber" />
+        <item itemvalue="Application.NestedIf" />
+        <item itemvalue="Application.FooBaar" />
+        <item itemvalue="Application.FooBaarIfElse" />
+        <item itemvalue="Application.IfExampleForAge" />
+        <item itemvalue="Application.LogicalOperator" />
       </list>
     </recent_temporary>
   </component>

@@ -8,5 +8,6 @@ public class UnaryOperator1 {
         System.out.println("line8 ="+a--); //29 , 28
         System.out.println("line9= "+a--);  // 28 ,27
         System.out.println("line10= "+a); //27
+
     }
 }
