@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1478d73f-c6e2-4202-af2c-040eb8d81364" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/basic/controlstatement/FooBaarIfElse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/controlstatement/IfExampleForAge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/operators/ArithmaticOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/operators/AssignmentOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/operators/LogicalOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/operators/RelationalOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/controlstatement/WeekNoToDays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/operators/UnaryOperator1.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/operators/UnaryOperator1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/dce-core-java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/dce-core-java/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,8 +49,11 @@
     &quot;Application.AddTwoNumber.executor&quot;: &quot;Run&quot;,
     &quot;Application.ArithmaticOperator.executor&quot;: &quot;Run&quot;,
     &quot;Application.AssignmentOperator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FooBaar.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FooBaarIfElse.executor&quot;: &quot;Run&quot;,
     &quot;Application.IfExampleForAge.executor&quot;: &quot;Run&quot;,
     &quot;Application.LogicalOperator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NestedIf.executor&quot;: &quot;Run&quot;,
     &quot;Application.RelationalOperator.executor&quot;: &quot;Run&quot;,
     &quot;Application.UnaryBasicExample.executor&quot;: &quot;Run&quot;,
     &quot;Application.UnaryOperator1.executor&quot;: &quot;Run&quot;,
@@ -79,13 +75,13 @@
       <recent name="basic.operators" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FooBaarIfElse">
-    <configuration name="AssignmentOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.operators.AssignmentOperator" />
+  <component name="RunManager" selected="Application.WeekNoToDays">
+    <configuration name="FooBaar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.controlstatement.FooBaar" />
       <module name="dce-core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.operators.*" />
+          <option name="PATTERN" value="basic.controlstatement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LogicalOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.operators.LogicalOperator" />
+    <configuration name="NestedIf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.controlstatement.NestedIf" />
       <module name="dce-core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.operators.*" />
+          <option name="PATTERN" value="basic.controlstatement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RelationalOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.operators.RelationalOperator" />
+    <configuration name="WeekNoToDays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.controlstatement.WeekNoToDays" />
       <module name="dce-core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.operators.*" />
+          <option name="PATTERN" value="basic.controlstatement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WeekNoToDays" />
+        <item itemvalue="Application.NestedIf" />
+        <item itemvalue="Application.FooBaar" />
         <item itemvalue="Application.FooBaarIfElse" />
         <item itemvalue="Application.IfExampleForAge" />
-        <item itemvalue="Application.LogicalOperator" />
-        <item itemvalue="Application.RelationalOperator" />
-        <item itemvalue="Application.AssignmentOperator" />
       </list>
     </recent_temporary>
   </component>
