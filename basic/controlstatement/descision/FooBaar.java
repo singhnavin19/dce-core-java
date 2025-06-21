@@ -1,4 +1,4 @@
-package basic.controlstatement;
+package basic.controlstatement.descision;
 
 import java.util.Scanner;
 
