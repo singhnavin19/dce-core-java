@@ -1,9 +1,16 @@
 package basic.oops.basicoops;
 
 public class Student {
-    String name; 
+    String name;
     int rollNo;
     float percentage;
+
+    public void studentDetails(){
+        System.out.println("name="+name);
+        System.out.println("rollNo="+rollNo);
+        System.out.println("percentage="+percentage);
+    }
+
    public void grade (){
        if(percentage>60){
            System.out.println("A+");
@@ -24,12 +31,15 @@ public class Student {
         vishal.name="vishal";
         vishal.percentage=75;
         vishal.grade();
+        vishal.studentDetails();
+
 
         Student priti=new Student();
         priti.rollNo=2;
         priti.name="priti";
         priti.percentage=77;
         priti.grade();
+        priti.studentDetails();
 
 
     }
