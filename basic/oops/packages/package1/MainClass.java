@@ -4,6 +4,9 @@ import basic.oops.packages.package2.B;
 import basic.oops.packages.package2.C;
 
 public class MainClass {
+    private void method1(){
+        System.out.println("method1");
+    }
     public static void main(String[] args) {
         B b=new B();
         b.sayName();
