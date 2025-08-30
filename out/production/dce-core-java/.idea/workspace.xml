@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1478d73f-c6e2-4202-af2c-040eb8d81364" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/basic/controlstatement/DynamicStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/controlstatement/MarksToPercentageToGrad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/controlstatement/SwitchExample1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/basic/controlstatement/WeekNoToDays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/dce-core-java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/dce-core-java/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,30 +47,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Application.AddTwoNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArithmaticOperator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AssignmentOperator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FooBaar.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FooBaarIfElse.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IfExampleForAge.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LogicalOperator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NestedIf.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RelationalOperator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.UnaryBasicExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.UnaryOperator1.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;may-2025&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/navinsingh/git/dce-core-java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.AddTwoNumber.executor": "Run",
+    "Application.ArithmaticOperator.executor": "Run",
+    "Application.AssignmentOperator.executor": "Run",
+    "Application.DynamicStudent.executor": "Run",
+    "Application.FooBaar.executor": "Run",
+    "Application.FooBaarIfElse.executor": "Run",
+    "Application.IfExampleForAge.executor": "Run",
+    "Application.LogicalOperator.executor": "Run",
+    "Application.MarksToPercentageToGrad.executor": "Run",
+    "Application.MraksToPercentageToGrad.executor": "Run",
+    "Application.NestedIf.executor": "Run",
+    "Application.RelationalOperator.executor": "Run",
+    "Application.SwitchExample1.executor": "Run",
+    "Application.UnaryBasicExample.executor": "Run",
+    "Application.UnaryOperator1.executor": "Run",
+    "Application.WeekNoToDays.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "may-2025",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Navin/New folder/dce-core-java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -75,9 +85,9 @@
       <recent name="basic.operators" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.WeekNoToDays">
-    <configuration name="FooBaar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.controlstatement.FooBaar" />
+  <component name="RunManager" selected="Application.MainClass">
+    <configuration name="DynamicStudent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.controlstatement.DynamicStudent" />
       <module name="dce-core-java" />
       <extension name="coverage">
         <pattern>
@@ -89,8 +99,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FooBaarIfElse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.controlstatement.FooBaarIfElse" />
+    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.oops.inheritcance1.SongleLevel.MainClass" />
+      <module name="dce-core-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basic.oops.inheritcance1.SongleLevel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MarksToPercentageToGrad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.controlstatement.MarksToPercentageToGrad" />
       <module name="dce-core-java" />
       <extension name="coverage">
         <pattern>
@@ -102,21 +125,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IfExampleForAge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.controlstatement.IfExampleForAge" />
-      <module name="dce-core-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="basic.controlstatement.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NestedIf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.controlstatement.NestedIf" />
+    <configuration name="SwitchExample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.controlstatement.SwitchExample1" />
       <module name="dce-core-java" />
       <extension name="coverage">
         <pattern>
@@ -154,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainClass" />
+        <item itemvalue="Application.SwitchExample1" />
+        <item itemvalue="Application.DynamicStudent" />
+        <item itemvalue="Application.MarksToPercentageToGrad" />
         <item itemvalue="Application.WeekNoToDays" />
-        <item itemvalue="Application.NestedIf" />
-        <item itemvalue="Application.FooBaar" />
-        <item itemvalue="Application.FooBaarIfElse" />
-        <item itemvalue="Application.IfExampleForAge" />
       </list>
     </recent_temporary>
   </component>
