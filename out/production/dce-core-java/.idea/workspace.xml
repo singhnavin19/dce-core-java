@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1478d73f-c6e2-4202-af2c-040eb8d81364" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/basic/stringss/StringBasic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/dce-core-java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/dce-core-java/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,61 +45,92 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Application.AddTwoNumber.executor": "Run",
-    "Application.ArithmaticOperator.executor": "Run",
-    "Application.AssignmentOperator.executor": "Run",
-    "Application.BasicFlow.executor": "Run",
-    "Application.Building.executor": "Run",
-    "Application.DynamicStudent.executor": "Run",
-    "Application.EncapMain.executor": "Run",
-    "Application.FatherOfAllClass.executor": "Run",
-    "Application.FooBaar.executor": "Run",
-    "Application.FooBaarIfElse.executor": "Run",
-    "Application.HelloByeBye.executor": "Run",
-    "Application.IfExampleForAge.executor": "Run",
-    "Application.LogicalOperator.executor": "Run",
-    "Application.MainClass.executor": "Run",
-    "Application.MainClassInterface.executor": "Run",
-    "Application.MarksToPercentageToGrad.executor": "Run",
-    "Application.MathClassExample.executor": "Run",
-    "Application.MraksToPercentageToGrad.executor": "Run",
-    "Application.NestedIf.executor": "Run",
-    "Application.RelationalOperator.executor": "Run",
-    "Application.StaticBlock.executor": "Run",
-    "Application.StaticClassExample.executor": "Run",
-    "Application.SwitchExample1.executor": "Run",
-    "Application.TypeOfVariable2.executor": "Run",
-    "Application.UnaryBasicExample.executor": "Run",
-    "Application.UnaryOperator1.executor": "Run",
-    "Application.WeekNoToDays.executor": "Run",
-    "Application.WrapperClass.executor": "Run",
-    "Application.WrapperExample.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "may-2025",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Navin/New folder/dce-core-java",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Application.AddTwoNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArithmaticOperator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AssignmentOperator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BasicFlow.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Building.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CompileTimeExceptionExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CustomCheckedException.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DynamicStudent.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EncapMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FatherOfAllClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FooBaar.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FooBaarIfElse.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HelloByeBye.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IfExampleForAge.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LogicalOperator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainClassInterface.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MarksToPercentageToGrad.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MathClassExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MraksToPercentageToGrad.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NestedIf.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RelationalOperator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StaticBlock.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StaticClassExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SwitchExample1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TypeOfVariable2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UnaryBasicExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UnaryOperator1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WeekNoToDays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WrapperClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WrapperExample.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;may-2025&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Navin/New folder/dce-core-java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Navin\New folder\dce-core-java\basic" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="basic.operators" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BasicFlow">
+  <component name="RunManager" selected="Application.StringBasic">
     <configuration name="BasicFlow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="basic.exceptionsss.BasicFlow" />
+      <module name="dce-core-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basic.exceptionsss.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompileTimeExceptionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.exceptionsss.CompileTimeExceptionExample" />
+      <module name="dce-core-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basic.exceptionsss.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomCheckedException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.exceptionsss.CustomCheckedException" />
       <module name="dce-core-java" />
       <extension name="coverage">
         <pattern>
@@ -124,38 +155,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StaticClassExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.misc.StaticClassExample" />
+    <configuration name="StringBasic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.stringss.StringBasic" />
       <module name="dce-core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.misc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TypeOfVariable2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.misc.TypeOfVariable2" />
-      <module name="dce-core-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="basic.misc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WrapperExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.misc.WrapperExample" />
-      <module name="dce-core-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="basic.misc.*" />
+          <option name="PATTERN" value="basic.stringss.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -176,11 +181,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringBasic" />
+        <item itemvalue="Application.CustomCheckedException" />
+        <item itemvalue="Application.CompileTimeExceptionExample" />
         <item itemvalue="Application.BasicFlow" />
         <item itemvalue="Application.StaticBlock" />
-        <item itemvalue="Application.StaticClassExample" />
-        <item itemvalue="Application.WrapperExample" />
-        <item itemvalue="Application.TypeOfVariable2" />
       </list>
     </recent_temporary>
   </component>
