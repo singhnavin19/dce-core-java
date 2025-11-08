@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1478d73f-c6e2-4202-af2c-040eb8d81364" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/basic/controlstatement/DynamicStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/controlstatement/MarksToPercentageToGrad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/controlstatement/SwitchExample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/controlstatement/WeekNoToDays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/stringss/StringBuilderAndBuffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/stringss/StringImmutable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/stringss/StringMrmory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/dce-core-java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/dce-core-java/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -20,6 +20,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -53,25 +54,47 @@
     "Application.AddTwoNumber.executor": "Run",
     "Application.ArithmaticOperator.executor": "Run",
     "Application.AssignmentOperator.executor": "Run",
+    "Application.BasicFlow.executor": "Run",
+    "Application.Building.executor": "Run",
+    "Application.CompareString.executor": "Run",
+    "Application.CompileTimeExceptionExample.executor": "Run",
+    "Application.CustomCheckedException.executor": "Run",
     "Application.DynamicStudent.executor": "Run",
+    "Application.EncapMain.executor": "Run",
+    "Application.FatherOfAllClass.executor": "Run",
     "Application.FooBaar.executor": "Run",
     "Application.FooBaarIfElse.executor": "Run",
+    "Application.HelloByeBye.executor": "Run",
     "Application.IfExampleForAge.executor": "Run",
     "Application.LogicalOperator.executor": "Run",
+    "Application.MainClass.executor": "Run",
+    "Application.MainClassInterface.executor": "Run",
     "Application.MarksToPercentageToGrad.executor": "Run",
+    "Application.MathClassExample.executor": "Run",
     "Application.MraksToPercentageToGrad.executor": "Run",
     "Application.NestedIf.executor": "Run",
     "Application.RelationalOperator.executor": "Run",
+    "Application.StaticBlock.executor": "Run",
+    "Application.StaticClassExample.executor": "Run",
+    "Application.StringBasic.executor": "Run",
+    "Application.StringBuilderAndBuffer.executor": "Run",
+    "Application.StringImmutable.executor": "Run",
+    "Application.StringInternalStorage.executor": "Run",
     "Application.SwitchExample1.executor": "Run",
+    "Application.TypeOfVariable2.executor": "Run",
     "Application.UnaryBasicExample.executor": "Run",
     "Application.UnaryOperator1.executor": "Run",
     "Application.WeekNoToDays.executor": "Run",
+    "Application.WrapperClass.executor": "Run",
+    "Application.WrapperExample.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "may-2025",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/navinsingh/git/dce-core-java",
-    "project.structure.last.edited": "Modules",
+    "last_opened_file_path": "D:/Navin/New folder/dce-core-java",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2"
   }
@@ -80,17 +103,20 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Navin\New folder\dce-core-java\basic" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="basic.operators" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SwitchExample1">
-    <configuration name="DynamicStudent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.controlstatement.DynamicStudent" />
+  <component name="RunManager" selected="Application.StringBuilderAndBuffer">
+    <configuration name="CompareString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.stringss.CompareString" />
       <module name="dce-core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.controlstatement.*" />
+          <option name="PATTERN" value="basic.stringss.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MarksToPercentageToGrad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.controlstatement.MarksToPercentageToGrad" />
+    <configuration name="StringBasic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.stringss.StringBasic" />
       <module name="dce-core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.controlstatement.*" />
+          <option name="PATTERN" value="basic.stringss.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NestedIf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.controlstatement.NestedIf" />
+    <configuration name="StringBuilderAndBuffer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.stringss.StringBuilderAndBuffer" />
       <module name="dce-core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.controlstatement.*" />
+          <option name="PATTERN" value="basic.stringss.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +150,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwitchExample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.controlstatement.SwitchExample1" />
+    <configuration name="StringImmutable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.stringss.StringImmutable" />
       <module name="dce-core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.controlstatement.*" />
+          <option name="PATTERN" value="basic.stringss.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,12 +163,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WeekNoToDays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.controlstatement.WeekNoToDays" />
+    <configuration name="StringInternalStorage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.stringss.StringInternalStorage" />
       <module name="dce-core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.controlstatement.*" />
+          <option name="PATTERN" value="basic.stringss.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,11 +189,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SwitchExample1" />
-        <item itemvalue="Application.DynamicStudent" />
-        <item itemvalue="Application.MarksToPercentageToGrad" />
-        <item itemvalue="Application.WeekNoToDays" />
-        <item itemvalue="Application.NestedIf" />
+        <item itemvalue="Application.StringBuilderAndBuffer" />
+        <item itemvalue="Application.StringImmutable" />
+        <item itemvalue="Application.CompareString" />
+        <item itemvalue="Application.StringInternalStorage" />
+        <item itemvalue="Application.StringBasic" />
       </list>
     </recent_temporary>
   </component>

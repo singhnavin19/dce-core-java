@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1478d73f-c6e2-4202-af2c-040eb8d81364" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/basic/stringss/StringBasic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/stringss/StringImmutable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/stringss/StringMrmory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -53,6 +54,7 @@
     &quot;Application.AssignmentOperator.executor&quot;: &quot;Run&quot;,
     &quot;Application.BasicFlow.executor&quot;: &quot;Run&quot;,
     &quot;Application.Building.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CompareString.executor&quot;: &quot;Run&quot;,
     &quot;Application.CompileTimeExceptionExample.executor&quot;: &quot;Run&quot;,
     &quot;Application.CustomCheckedException.executor&quot;: &quot;Run&quot;,
     &quot;Application.DynamicStudent.executor&quot;: &quot;Run&quot;,
@@ -72,6 +74,8 @@
     &quot;Application.RelationalOperator.executor&quot;: &quot;Run&quot;,
     &quot;Application.StaticBlock.executor&quot;: &quot;Run&quot;,
     &quot;Application.StaticClassExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringBasic.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringInternalStorage.executor&quot;: &quot;Run&quot;,
     &quot;Application.SwitchExample1.executor&quot;: &quot;Run&quot;,
     &quot;Application.TypeOfVariable2.executor&quot;: &quot;Run&quot;,
     &quot;Application.UnaryBasicExample.executor&quot;: &quot;Run&quot;,
@@ -102,26 +106,13 @@
       <recent name="basic.operators" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StringBasic">
-    <configuration name="BasicFlow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.exceptionsss.BasicFlow" />
+  <component name="RunManager" selected="Application.StringImmutable">
+    <configuration name="CompareString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.stringss.CompareString" />
       <module name="dce-core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.exceptionsss.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CompileTimeExceptionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.exceptionsss.CompileTimeExceptionExample" />
-      <module name="dce-core-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="basic.exceptionsss.*" />
+          <option name="PATTERN" value="basic.stringss.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,12 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StaticBlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.misc.StaticBlock" />
+    <configuration name="StringBasic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.stringss.StringBasic" />
       <module name="dce-core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.misc.*" />
+          <option name="PATTERN" value="basic.stringss.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,8 +146,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringBasic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.stringss.StringBasic" />
+    <configuration name="StringImmutable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.stringss.StringImmutable" />
+      <module name="dce-core-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basic.stringss.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringInternalStorage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.stringss.StringInternalStorage" />
       <module name="dce-core-java" />
       <extension name="coverage">
         <pattern>
@@ -181,11 +185,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringImmutable" />
+        <item itemvalue="Application.CompareString" />
+        <item itemvalue="Application.StringInternalStorage" />
         <item itemvalue="Application.StringBasic" />
         <item itemvalue="Application.CustomCheckedException" />
-        <item itemvalue="Application.CompileTimeExceptionExample" />
-        <item itemvalue="Application.BasicFlow" />
-        <item itemvalue="Application.StaticBlock" />
       </list>
     </recent_temporary>
   </component>
