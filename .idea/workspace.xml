@@ -4,92 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1478d73f-c6e2-4202-af2c-040eb8d81364" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/basic/hello/Hello.java" afterDir="false" />
+    <list default="true" id="1478d73f-c6e2-4202-af2c-040eb8d81364" name="Changes" comment="hello world1">
+      <change afterPath="$PROJECT_DIR$/basic/hello/NewJavaHello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/operator/ArithmaticOp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/operator/UNaryPrefixAndpostfix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/operator/UnaryOperatorBasic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/AddTwoNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/Hello.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/abc.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/array/ArrayBasic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/array/ArrayPrintElements.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/controlstatement/descision/DynamicStudent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/controlstatement/descision/FooBaar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/controlstatement/descision/FooBaarIfElse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/controlstatement/descision/IfExampleForAge.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/controlstatement/descision/MarksToPercentageToGrad.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/controlstatement/descision/NestedIf.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/controlstatement/descision/SwitchExample1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/controlstatement/descision/WeekNoToDays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/controlstatement/loop/BasicNeed.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/controlstatement/loop/BreakExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/controlstatement/loop/DoWhileExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/controlstatement/loop/Fibonacci.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/controlstatement/loop/OtherLoop.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/controlstatement/loop/PrintNumberTillUser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/controlstatement/loop/PrintTable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/controlstatement/loop/ProblemStatement5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/controlstatement/loop/ProblemStatement8.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/controlstatement/loop/SwappingTwoNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/controlstatement/loop/pattern/FiveByFiveStartPattern.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/controlstatement/loop/pattern/FourByThreeStartPattern.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/exceptionsss/BasicFlow.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/exceptionsss/CompileTimeExceptionExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/exceptionsss/CustomCheckedException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/exceptionsss/VotingEligibility.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/misc/FatherOfAllClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/misc/MathClassExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/misc/StaticBlock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/misc/StaticClassExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/misc/TypeOfVariable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/misc/TypeOfVariable2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/misc/WrapperExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/oops/acessModifiers/MainClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/oops/basicoops/MathExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/oops/basicoops/MathExample2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/oops/basicoops/MethodSyntax.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/oops/basicoops/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/oops/basicoops/StudentA.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/oops/construct/BasicConstruct.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/oops/encapsulations/Building.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/oops/encapsulations/EncapMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/oops/encapsulations/img.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/oops/inheritcance1/SongleLevel/Chiild1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/oops/inheritcance1/SongleLevel/MainClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/oops/inheritcance1/SongleLevel/Parent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/oops/inheritcance1/superexample/SuperExampleMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/oops/interfcae11/ByeByeInterface.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/oops/interfcae11/HelloByeBye.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/oops/interfcae11/HelloInEnglish.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/oops/interfcae11/HelloInHindi.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/oops/interfcae11/HelloInterface.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/oops/interfcae11/MainClassInterface.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/oops/packages/package1/A.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/oops/packages/package1/MainClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/oops/packages/package2/B.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/oops/packages/package2/C.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/oops/packages/package3/B.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/operators/ArithmaticOperator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/operators/AssignmentOperator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/operators/LogicalOperator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/operators/RelationalOperator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/operators/UnaryBasicExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/operators/UnaryOperator1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/stringss/CompareString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/stringss/StringBasic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/stringss/StringBuilderAndBuffer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/stringss/StringImmutable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/stringss/StringInternalStorage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/stringss/StringMrmory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/dce-core-java/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/dce-core-java/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/dce-core-java/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/dce-core-java/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/dce-core-java/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/dce-core-java/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/dce-core-java/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/dce-core-java/basic/abc.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/dce-core-java/basic/oops/encapsulations/img.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/dce-core-java/dce-core-java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/hello/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/hello/Hello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dce-core-java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dce-core-java.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,12 +43,16 @@
     &quot;assignee&quot;: &quot;singhnavin19&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/singhnavin19/dce-core-java.git",
-    "accountId": "485aba8c-f875-4590-98c7-eb8f7e8a2fd3"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/singhnavin19/dce-core-java.git&quot;,
+    &quot;accountId&quot;: &quot;485aba8c-f875-4590-98c7-eb8f7e8a2fd3&quot;
   }
-}]]></component>
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://C:/Program Files/Java/jdk-21/lib/src.zip!/java.base/java/lang/annotation/Target.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://C:/Program Files/Java/jdk-26/lib/src.zip!/java.base/java/lang/IO.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -138,6 +65,7 @@
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Application.AddTwoNumber.executor": "Run",
+    "Application.ArithmaticOp.executor": "Run",
     "Application.ArithmaticOperator.executor": "Run",
     "Application.AssignmentOperator.executor": "Run",
     "Application.BasicFlow.executor": "Run",
@@ -150,6 +78,7 @@
     "Application.FatherOfAllClass.executor": "Run",
     "Application.FooBaar.executor": "Run",
     "Application.FooBaarIfElse.executor": "Run",
+    "Application.Hello (1).executor": "Run",
     "Application.Hello.executor": "Run",
     "Application.HelloByeBye.executor": "Run",
     "Application.IfExampleForAge.executor": "Run",
@@ -160,6 +89,7 @@
     "Application.MathClassExample.executor": "Run",
     "Application.MraksToPercentageToGrad.executor": "Run",
     "Application.NestedIf.executor": "Run",
+    "Application.NewJavaHello.executor": "Run",
     "Application.RelationalOperator.executor": "Run",
     "Application.StaticBlock.executor": "Run",
     "Application.StaticClassExample.executor": "Run",
@@ -171,6 +101,7 @@
     "Application.TypeOfVariable2.executor": "Run",
     "Application.UnaryBasicExample.executor": "Run",
     "Application.UnaryOperator1.executor": "Run",
+    "Application.UnaryOperatorBasic.executor": "Run",
     "Application.WeekNoToDays.executor": "Run",
     "Application.WrapperClass.executor": "Run",
     "Application.WrapperExample.executor": "Run",
@@ -178,12 +109,12 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "may-2025",
+    "git-widget-placeholder": "19-april-2026",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/Navin/New folder/dce-core-java",
-    "project.structure.last.edited": "SDKs",
-    "project.structure.proportion": "0.0",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
@@ -198,13 +129,13 @@
       <recent name="basic.operators" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.basic.hello.Hello">
-    <configuration name="CompareString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.stringss.CompareString" />
+  <component name="RunManager" selected="Application.ArithmaticOp">
+    <configuration name="ArithmaticOp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.operator.ArithmaticOp" />
       <module name="dce-core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.stringss.*" />
+          <option name="PATTERN" value="basic.operator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -212,12 +143,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.annoation.Hello" />
+    <configuration name="Hello (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="UNNAMED_CLASS_CONFIGURATION" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Hello" />
+      <module name="dce-core-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NewJavaHello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.hello.NewJavaHello" />
       <module name="dce-core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.annoation.*" />
+          <option name="PATTERN" value="basic.hello.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -225,25 +164,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringBuilderAndBuffer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.stringss.StringBuilderAndBuffer" />
+    <configuration name="UnaryOperatorBasic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.operator.UnaryOperatorBasic" />
       <module name="dce-core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.stringss.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringImmutable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.stringss.StringImmutable" />
-      <module name="dce-core-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="basic.stringss.*" />
+          <option name="PATTERN" value="basic.operator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -277,11 +203,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArithmaticOp" />
+        <item itemvalue="Application.UnaryOperatorBasic" />
+        <item itemvalue="Application.NewJavaHello" />
+        <item itemvalue="Application.Hello (1)" />
         <item itemvalue="Application.basic.hello.Hello" />
-        <item itemvalue="Application.Hello" />
-        <item itemvalue="Application.StringBuilderAndBuffer" />
-        <item itemvalue="Application.StringImmutable" />
-        <item itemvalue="Application.CompareString" />
       </list>
     </recent_temporary>
   </component>
@@ -294,6 +220,28 @@
       <option name="presentableId" value="Default" />
       <updated>1748618382984</updated>
     </task>
+    <task id="LOCAL-00001" summary="hello world">
+      <option name="closed" value="true" />
+      <created>1776591320799</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1776591320799</updated>
+    </task>
+    <task id="LOCAL-00002" summary="hello world1">
+      <option name="closed" value="true" />
+      <created>1776595021152</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1776595021152</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hello world" />
+    <MESSAGE value="hello world1" />
+    <option name="LAST_COMMIT_MESSAGE" value="hello world1" />
   </component>
 </project>
