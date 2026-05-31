@@ -6,6 +6,8 @@ public class Hello {
         byte b=11;
         System.out.println(number);
         System.out.println("Byte "+b);
+        if(false){
 
+        }
     }
 }
