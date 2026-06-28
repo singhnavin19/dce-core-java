@@ -4,15 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1478d73f-c6e2-4202-af2c-040eb8d81364" name="Changes" comment="operator">
-      <change afterPath="$PROJECT_DIR$/basic/UserInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/conditional/ConditionalSwitch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/conditional/PassFailExampleWithGrade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/operator/AssignmentOps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/operator/CheckDataType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/operator/RelationalOperator.java" afterDir="false" />
+    <list default="true" id="1478d73f-c6e2-4202-af2c-040eb8d81364" name="Changes" comment="conditional operator">
+      <change afterPath="$PROJECT_DIR$/basic/loop/DoWhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/loop/ForLoopBasic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/loop/WhileLoopExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/loop/jumpOrBranch/BreakAndContinue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/hello/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/hello/Hello.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,17 +67,20 @@
     "Application.AssignmentOperator.executor": "Run",
     "Application.AssignmentOps.executor": "Run",
     "Application.BasicFlow.executor": "Run",
+    "Application.BreakAndContinue.executor": "Run",
     "Application.Building.executor": "Run",
     "Application.CheckDataType.executor": "Run",
     "Application.CompareString.executor": "Run",
     "Application.CompileTimeExceptionExample.executor": "Run",
     "Application.ConditionalSwitch.executor": "Run",
     "Application.CustomCheckedException.executor": "Run",
+    "Application.DoWhileLoop.executor": "Run",
     "Application.DynamicStudent.executor": "Run",
     "Application.EncapMain.executor": "Run",
     "Application.FatherOfAllClass.executor": "Run",
     "Application.FooBaar.executor": "Run",
     "Application.FooBaarIfElse.executor": "Run",
+    "Application.ForLoopBasic.executor": "Run",
     "Application.Hello (1).executor": "Run",
     "Application.Hello.executor": "Run",
     "Application.HelloByeBye.executor": "Run",
@@ -108,6 +108,7 @@
     "Application.UnaryOperatorBasic.executor": "Run",
     "Application.UserInput.executor": "Run",
     "Application.WeekNoToDays.executor": "Run",
+    "Application.WhileLoopExample.executor": "Run",
     "Application.WrapperClass.executor": "Run",
     "Application.WrapperExample.executor": "Run",
     "Application.basic.hello.Hello.executor": "Run",
@@ -134,13 +135,13 @@
       <recent name="basic.operators" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ConditionalSwitch">
-    <configuration name="CheckDataType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.operator.CheckDataType" />
+  <component name="RunManager" selected="Application.BreakAndContinue">
+    <configuration name="BreakAndContinue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.loop.jumpOrBranch.BreakAndContinue" />
       <module name="dce-core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.operator.*" />
+          <option name="PATTERN" value="basic.loop.jumpOrBranch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,12 +162,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PassFailExampleWithGrade" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.conditional.PassFailExampleWithGrade" />
+    <configuration name="DoWhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.loop.DoWhileLoop" />
       <module name="dce-core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.conditional.*" />
+          <option name="PATTERN" value="basic.loop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,12 +175,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RelationalOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.operator.RelationalOperator" />
+    <configuration name="ForLoopBasic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.loop.ForLoopBasic" />
       <module name="dce-core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.operator.*" />
+          <option name="PATTERN" value="basic.loop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -187,12 +188,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.UserInput" />
+    <configuration name="WhileLoopExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.loop.WhileLoopExample" />
       <module name="dce-core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.*" />
+          <option name="PATTERN" value="basic.loop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -213,11 +214,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BreakAndContinue" />
+        <item itemvalue="Application.DoWhileLoop" />
+        <item itemvalue="Application.WhileLoopExample" />
+        <item itemvalue="Application.ForLoopBasic" />
         <item itemvalue="Application.ConditionalSwitch" />
-        <item itemvalue="Application.UserInput" />
-        <item itemvalue="Application.PassFailExampleWithGrade" />
-        <item itemvalue="Application.CheckDataType" />
-        <item itemvalue="Application.RelationalOperator" />
       </list>
     </recent_temporary>
   </component>
@@ -254,13 +255,22 @@
       <option name="project" value="LOCAL" />
       <updated>1777185760454</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="conditional operator">
+      <option name="closed" value="true" />
+      <created>1780237620392</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1780237620392</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hello world" />
     <MESSAGE value="hello world1" />
     <MESSAGE value="operator" />
-    <option name="LAST_COMMIT_MESSAGE" value="operator" />
+    <MESSAGE value="conditional operator" />
+    <option name="LAST_COMMIT_MESSAGE" value="conditional operator" />
   </component>
 </project>
