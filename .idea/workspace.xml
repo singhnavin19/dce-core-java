@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1478d73f-c6e2-4202-af2c-040eb8d81364" name="Changes" comment="loop">
-      <change afterPath="$PROJECT_DIR$/basic/oops/ClassAndMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/oops/MethodWithReturn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/oops/Test.java" afterDir="false" />
+    <list default="true" id="1478d73f-c6e2-4202-af2c-040eb8d81364" name="Changes" comment="19th August">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/oops/MethodWithReturn.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/oops/MethodWithReturn.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,7 +135,7 @@
       <recent name="basic.operators" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="RunManager" selected="Application.MethodWithReturn">
     <configuration name="BreakAndContinue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="basic.loop.jumpOrBranch.BreakAndContinue" />
       <module name="dce-core-java" />
@@ -216,8 +214,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test" />
         <item itemvalue="Application.MethodWithReturn" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.ClassAndMethod" />
         <item itemvalue="Application.BreakAndContinue" />
         <item itemvalue="Application.DoWhileLoop" />
@@ -273,7 +271,15 @@
       <option name="project" value="LOCAL" />
       <updated>1782645312187</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="19th August">
+      <option name="closed" value="true" />
+      <created>1792326219974</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1792326219975</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -282,6 +288,7 @@
     <MESSAGE value="operator" />
     <MESSAGE value="conditional operator" />
     <MESSAGE value="loop" />
-    <option name="LAST_COMMIT_MESSAGE" value="loop" />
+    <MESSAGE value="19th August" />
+    <option name="LAST_COMMIT_MESSAGE" value="19th August" />
   </component>
 </project>
