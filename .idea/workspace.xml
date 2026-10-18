@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1478d73f-c6e2-4202-af2c-040eb8d81364" name="Changes" comment="conditional operator">
-      <change afterPath="$PROJECT_DIR$/basic/loop/DoWhileLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/loop/ForLoopBasic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/loop/WhileLoopExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/loop/jumpOrBranch/BreakAndContinue.java" afterDir="false" />
+    <list default="true" id="1478d73f-c6e2-4202-af2c-040eb8d81364" name="Changes" comment="loop">
+      <change afterPath="$PROJECT_DIR$/basic/oops/ClassAndMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/oops/MethodWithReturn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/oops/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,6 +69,7 @@
     "Application.BreakAndContinue.executor": "Run",
     "Application.Building.executor": "Run",
     "Application.CheckDataType.executor": "Run",
+    "Application.ClassAndMethod.executor": "Run",
     "Application.CompareString.executor": "Run",
     "Application.CompileTimeExceptionExample.executor": "Run",
     "Application.ConditionalSwitch.executor": "Run",
@@ -90,6 +90,7 @@
     "Application.MainClassInterface.executor": "Run",
     "Application.MarksToPercentageToGrad.executor": "Run",
     "Application.MathClassExample.executor": "Run",
+    "Application.MethodWithReturn.executor": "Run",
     "Application.MraksToPercentageToGrad.executor": "Run",
     "Application.NestedIf.executor": "Run",
     "Application.NewJavaHello.executor": "Run",
@@ -102,6 +103,7 @@
     "Application.StringImmutable.executor": "Run",
     "Application.StringInternalStorage.executor": "Run",
     "Application.SwitchExample1.executor": "Run",
+    "Application.Test.executor": "Run",
     "Application.TypeOfVariable2.executor": "Run",
     "Application.UnaryBasicExample.executor": "Run",
     "Application.UnaryOperator1.executor": "Run",
@@ -135,7 +137,7 @@
       <recent name="basic.operators" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BreakAndContinue">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="BreakAndContinue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="basic.loop.jumpOrBranch.BreakAndContinue" />
       <module name="dce-core-java" />
@@ -149,12 +151,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConditionalSwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.conditional.ConditionalSwitch" />
+    <configuration name="ClassAndMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.oops.ClassAndMethod" />
       <module name="dce-core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.conditional.*" />
+          <option name="PATTERN" value="basic.oops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,12 +177,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForLoopBasic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.loop.ForLoopBasic" />
+    <configuration name="MethodWithReturn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.oops.MethodWithReturn" />
       <module name="dce-core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.loop.*" />
+          <option name="PATTERN" value="basic.oops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -188,12 +190,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhileLoopExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.loop.WhileLoopExample" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.oops.Test" />
       <module name="dce-core-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.loop.*" />
+          <option name="PATTERN" value="basic.oops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -214,11 +216,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.MethodWithReturn" />
+        <item itemvalue="Application.ClassAndMethod" />
         <item itemvalue="Application.BreakAndContinue" />
         <item itemvalue="Application.DoWhileLoop" />
-        <item itemvalue="Application.WhileLoopExample" />
-        <item itemvalue="Application.ForLoopBasic" />
-        <item itemvalue="Application.ConditionalSwitch" />
       </list>
     </recent_temporary>
   </component>
@@ -263,7 +265,15 @@
       <option name="project" value="LOCAL" />
       <updated>1780237620392</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="loop">
+      <option name="closed" value="true" />
+      <created>1782645312187</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1782645312187</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -271,6 +281,7 @@
     <MESSAGE value="hello world1" />
     <MESSAGE value="operator" />
     <MESSAGE value="conditional operator" />
-    <option name="LAST_COMMIT_MESSAGE" value="conditional operator" />
+    <MESSAGE value="loop" />
+    <option name="LAST_COMMIT_MESSAGE" value="loop" />
   </component>
 </project>
